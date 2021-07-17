@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1626532061 "main.bcf" "main.bbl" "main" 1626532073
-  "main.bcf" 1626532073 124485 7ca4961a7de102563507972a09d133a0 "pdflatex"
+["biber main"] 1626532061 "main.bcf" "main.bbl" "main" 1626532492
+  "main.bcf" 1626532492 124485 7ca4961a7de102563507972a09d133a0 "pdflatex"
   "tail/References.bib" 1626530892 1570 016639bc26322aecf1e899283fd11842 ""
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1626532070 "main.tex" "main.pdf" "main" 1626532073
+["pdflatex"] 1626532488 "main.tex" "main.pdf" "main" 1626532492
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -291,14 +291,14 @@
   "images//sit.jpg" 1626530892 14215 1ae03c72ae9cad4a94e0efce371a2e91 ""
   "images//some_vector_graphics.pdf" 1626530892 135230 3f77021de2d02178071685e1672e4265 ""
   "images/Logo_EPFL.pdf" 1626530892 1439 3b143251e6400cd3bffa71e92b7cbd5c ""
-  "main.aux" 1626532073 10584 1711dd7d81e8559dc3f2121d62142109 "pdflatex"
+  "main.aux" 1626532492 10584 1711dd7d81e8559dc3f2121d62142109 "pdflatex"
   "main.bbl" 1626532063 6452 a72647a781aea4c29e5a5b37f4afb04e "biber main"
-  "main.lof" 1626532073 1493 81b49f2a0f25dd35b3fd3da937f05419 "pdflatex"
-  "main.lot" 1626532073 677 0e82b74205184a6f585cce985f338d1e "pdflatex"
-  "main.out" 1626532073 2552 c187fbef796d09cfccb6be60de56c267 "pdflatex"
-  "main.run.xml" 1626532073 2560 8b7f26206c2673a8f5d1d03bb020f2aa "pdflatex"
-  "main.tex" 1626530892 1671 6163babebedbabbdac37a7bd63103333 ""
-  "main.toc" 1626532073 2198 79c97a83cc8e16c7afc579f6c8bbb683 "pdflatex"
+  "main.lof" 1626532492 1493 81b49f2a0f25dd35b3fd3da937f05419 "pdflatex"
+  "main.lot" 1626532492 677 0e82b74205184a6f585cce985f338d1e "pdflatex"
+  "main.out" 1626532492 2552 c187fbef796d09cfccb6be60de56c267 "pdflatex"
+  "main.run.xml" 1626532492 2560 8b7f26206c2673a8f5d1d03bb020f2aa "pdflatex"
+  "main.tex" 1626532487 1672 c2f969ee80dd0bf18dbdfa95c9c80855 ""
+  "main.toc" 1626532492 2198 79c97a83cc8e16c7afc579f6c8bbb683 "pdflatex"
   "main/ch1_introduction.tex" 1626530892 184 262cd230c23fef30d2dc497fb37c73bc ""
   "main/ch2_figures_tables.tex" 1626530892 3057 9a93bcac9a24e67962c0295b1963e86e ""
   "main/ch3_math.tex" 1626530892 1114 4fb30fa51838a2fc16bc11c47b34e2f6 ""
@@ -309,12 +309,12 @@
   "tail/cv/cv.tex" 1626530892 498 c57a6d5ba2183e337d073c270f2aac7c ""
   "tail/cv/cv_main.tex" 1626530892 616 7faeb3990604c7a571acac0e2d911125 ""
   (generated)
+  "main.log"
   "main.out"
+  "main.aux"
   "main.lot"
   "main.pdf"
-  "main.log"
   "main.lof"
-  "main.aux"
-  "main.toc"
   "main.bcf"
   "main.run.xml"
+  "main.toc"
