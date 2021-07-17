@@ -1,0 +1,44 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acknowledgements}{i}{chapter*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Preface}{iii}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract (English/Français/Deutsch)}{v}{chapter*.3}%
+\babel@toc {german}{}
+\babel@toc {english}{}
+\babel@toc {french}{}
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of figures}{xiii}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of tables}{xv}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Tables and Figures}{5}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Tables}{5}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Figures}{6}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Mathematics}{11}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Very important formulas}{11}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Yet another chapter}{13}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}The others (\textit {not the movie})}{17}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Useful stuff for citation}{17}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Useful stuff chemical formulae}{17}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}An appendix}{21}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{23}{appendix*.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Curriculum Vitae}{25}{section*.17}%
