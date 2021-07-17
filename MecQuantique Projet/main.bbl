@@ -1,0 +1,171 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{atc13}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=75472cc5109f77757ed2c9237b87a780}{%
+           family={{Applied Technology Council}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Seismic Safety Commission, Applied Technology Council (\textsc{atc})}%
+      }
+      \list{location}{1}{%
+        {California}%
+      }
+      \strng{namehash}{75472cc5109f77757ed2c9237b87a780}
+      \strng{fullhash}{75472cc5109f77757ed2c9237b87a780}
+      \strng{bibnamehash}{75472cc5109f77757ed2c9237b87a780}
+      \strng{authorbibnamehash}{75472cc5109f77757ed2c9237b87a780}
+      \strng{authornamehash}{75472cc5109f77757ed2c9237b87a780}
+      \strng{authorfullhash}{75472cc5109f77757ed2c9237b87a780}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{E}arthquake damage evaluation data for {C}alifornia}
+      \field{type}{techreport}
+      \field{year}{1985}
+      \keyw{ATC}
+    \endentry
+    \entry{REF:1}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e6282e03b53d256b196d9c87121d8e95}{%
+           family={Damergi},
+           familyi={D\bibinitperiod},
+           given={Eya},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ca0e5c1369e310c23fc3d6f01cc7190}{%
+           family={Schwitzguébel},
+           familyi={S\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adff04ff1e69733231b9ebaadb4244aa}{%
+           family={Refardt},
+           familyi={R\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76a25d122aebc9760d33c5d8687fb765}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shivom},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a291a1f311161bcf42894a4e86326d3}{%
+           family={Holliger},
+           familyi={H\bibinitperiod},
+           given={Christof},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60ce4292a5f4489dcedb3da25a7faea4}{%
+           family={Ludwig},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef5fb98ba84be4fdf0faf17c1ab2c2ce}
+      \strng{fullhash}{ed50d1923a59395e1cd65cafc898d00f}
+      \strng{bibnamehash}{ed50d1923a59395e1cd65cafc898d00f}
+      \strng{authorbibnamehash}{ed50d1923a59395e1cd65cafc898d00f}
+      \strng{authornamehash}{ef5fb98ba84be4fdf0faf17c1ab2c2ce}
+      \strng{authorfullhash}{ed50d1923a59395e1cd65cafc898d00f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2211-9264}
+      \field{journaltitle}{Algal Research}
+      \field{title}{Extraction of carotenoids from Chlorella vulgaris using green solvents and syngas production from residual biomass}
+      \field{volume}{25}
+      \field{year}{2017}
+      \field{pages}{488\bibrangedash 495}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.algal.2017.05.003
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211926416303903
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S2211926416303903
+      \endverb
+    \endentry
+    \entry{REF:3}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d7487355768ee9fdbf8324ad1c1d661c}{%
+           family={Geem},
+           familyi={G\bibinitperiod},
+           given={Zong\bibnamedelima Woo},
+           giveni={Z\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=327dca86e8be43ab7f7c4bce4ea7e9df}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Kwee-Bo},
+           giveni={K\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef4529426701317c8d80443fd30badd7}
+      \strng{fullhash}{ef4529426701317c8d80443fd30badd7}
+      \strng{bibnamehash}{ef4529426701317c8d80443fd30badd7}
+      \strng{authorbibnamehash}{ef4529426701317c8d80443fd30badd7}
+      \strng{authornamehash}{ef4529426701317c8d80443fd30badd7}
+      \strng{authorfullhash}{ef4529426701317c8d80443fd30badd7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0096-3003}
+      \field{journaltitle}{Applied Mathematics and Computation}
+      \field{number}{8}
+      \field{title}{Parameter-setting-free harmony search {PSFHS} algorithm}
+      \field{volume}{217}
+      \field{year}{2010}
+      \field{pages}{3881\bibrangedash 3889}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.amc.2010.09.049
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S009630031001009X
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S009630031001009X
+      \endverb
+      \keyw{Harmony search,Parameter-setting-free technique,Phenomenon-mimicking algorithms}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
